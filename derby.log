@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 20 16:19:27 CET 2022:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046) : instance a816c00e-0185-301e-4323-0000063bd400 
+dans le répertoire de base de données C:\Users\Eleve\Desktop\workspace_JAVA\funny_post\funnyPost avec le chargeur de classe jdk.internal.loader.ClassLoaders$AppClassLoader@b97c004
+Chargé de file:/C:/Users/Eleve/Desktop/workspace_JAVA/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.4.1+1
+user.dir=C:\Users\Eleve\Desktop\workspace_JAVA\funny_post
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
