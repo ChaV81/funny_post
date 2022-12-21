@@ -44,7 +44,6 @@ public class Derby {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		//st.execute("create table posts (id int, user_id int, title varchar(254), body varchar(254))");
 		
 	}
 	
@@ -61,8 +60,6 @@ public class Derby {
 			e.printStackTrace();
 		}
 	}
-	// pas de void mais une liste de post
-	//  créer une liste de posts
 	
 	public List<Post> selectAll() {
 	    List<Post> postsList = new ArrayList<Post>();
